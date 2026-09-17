@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cronograma QW1 — Costa Dorada",
+      "hasCanvas": false,
+      "bodyTextLen": 7975,
+      "bodyTextHash": "b70656c48cb39f9b6fd648d8c3c387c436661c2cead1a77b46b941c860332988",
+      "bodyTextPrefix": "XACTUS SOCIO TECNOLÓGICO GRUPO COSTA DORADA Quick Win #1 — Infor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cronograma QW1 — Costa Dorada",
+      "hasCanvas": false,
+      "bodyTextLen": 7952,
+      "bodyTextHash": "90999498eac543487c066f8efd21a2b9f5055ec8de1f97823b78cb6ff1bf7d5c",
+      "bodyTextPrefix": "XACTUS SOCIO TECNOLÓGICO GRUPO COSTA DORADA Quick Win #1 — Infor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
